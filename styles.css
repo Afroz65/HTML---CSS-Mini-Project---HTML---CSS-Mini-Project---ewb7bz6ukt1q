@@ -109,14 +109,14 @@ i {
 }
 
 .about-me {
-    width: 50%;
+    width: 53%;
     text-align: justify;
     text-justify: inter-word;
 }
 
 .bio {
     width: 40%;
-    margin-left: 8%;
+    margin-left: 5%;
 }
 
 .bio-details {
